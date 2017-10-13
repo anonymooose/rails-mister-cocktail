@@ -12,6 +12,10 @@ gem 'simple_form'
 gem 'autoprefixer-rails'
 gem 'jquery-rails'
 
+#ImageHandler
+gem 'cloudinary'
+gem 'carrierwave', '~> 0.11.2'
+
 #Security
 gem 'figaro'
 
