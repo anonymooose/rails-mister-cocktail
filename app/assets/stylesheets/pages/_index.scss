@@ -1,2 +1,16 @@
 // Import page-specific CSS files here.
 @import "home";
+
+.banner {
+  background-image: url('../../images/bar_banner.jpg');
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  height: 100vh;
+}
+
+.banner-content {
+  color: white;
+}
+
